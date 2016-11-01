@@ -1,0 +1,18 @@
+﻿.centered-pills {
+    text-align: center;
+    padding: 5px;
+    background-color: white;
+}
+
+.centered-pills ul.nav-pills { display:inline-block; }
+
+* html .centered-pills ul.nav-pills { display:inline; }  IE6 
+*+html .centered-pills ul.nav-pills { display:inline; }  IE7 
+
+.centered-pills-login li { display:inline;}
+
+
+
+
+
+
